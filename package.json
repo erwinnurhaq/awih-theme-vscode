@@ -3,6 +3,7 @@
   "displayName": "Awih Theme",
   "description": "Personal theme preferences",
   "repository": "https://github.com/erwinnurhaq/awih-theme-vscode",
+  "publisher": "simkalastoforka",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.74.0"
