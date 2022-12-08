@@ -4,7 +4,7 @@
   "description": "Personal theme preferences",
   "repository": "https://github.com/erwinnurhaq/awih-theme-vscode",
   "publisher": "simkalastoforka",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.74.0"
   },
