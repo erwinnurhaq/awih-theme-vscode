@@ -1,0 +1,21 @@
+{
+  "name": "awih-theme",
+  "displayName": "awih-theme",
+  "description": "Personal theme preferences",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "awih-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/awih-theme-color-theme.json"
+      }
+    ]
+  }
+}
