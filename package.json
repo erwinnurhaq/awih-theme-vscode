@@ -1,6 +1,6 @@
 {
   "name": "awih-theme",
-  "displayName": "awih-theme",
+  "displayName": "Awih Theme",
   "description": "Personal theme preferences",
   "version": "0.0.1",
   "engines": {
@@ -12,7 +12,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "awih-theme",
+        "label": "Awih Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/awih-theme-color-theme.json"
       }
