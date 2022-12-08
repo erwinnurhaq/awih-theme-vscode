@@ -23,4 +23,4 @@ A colorful and modern theme for Visual Studio Code.
 
 ## License
 
-This theme is licensed under the MIT License. See [LICENSE](https://erwinnurhaq.github.io/awih-theme-vscode/LICENSE) for more details.
+This theme is licensed under the MIT License. See [LICENSE](https://erwinnurhaq.github.io/awih-theme-vscode/LICENSE.md) for more details.
